@@ -2,6 +2,6 @@
 """dasdassa"""
 
 
-def add(a: float, b:float) -> float:
+def add(a: float, b: float) -> float:
     """asdfaf"""
     return a + b

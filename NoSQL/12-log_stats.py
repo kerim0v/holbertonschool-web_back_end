@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Module that provides stats about Nginx logs stored in MongoDB."""
-from pymongo import MongoClient
+from pymongo import MongoClient # type: ignore
 
 
 if __name__ == "__main__":

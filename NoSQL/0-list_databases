@@ -1,2 +1,2 @@
-//comment
-show dbs
+//comment # type: ignore
+show dbs # type: ignore
